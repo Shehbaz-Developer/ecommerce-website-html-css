@@ -1,2 +1,15 @@
-# ecommerce-website-html-css
-A fully responsive front-end design of an eCommerce website built using pure HTML and CSS, without any frameworks or JavaScript. Ideal for beginners and designers looking to understand layout, structure, and clean UI patterns.
+# E-Commerce website html css
+
+in this repository you will see an html css template for a cool designed e-commerce website.
+
+## :heavy_check_mark: useful for who:
+
+-   wants to practice your html css skills
+
+## :heavy_check_mark: Authors
+
+-   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
+
+## :heavy_check_mark: License
+
+free for everyone to use in any good purposes :heart:
